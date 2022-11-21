@@ -1,4 +1,6 @@
-# Sylius Facebook Plugin
+# Sylius Facebook Plugin (Akki version)
+
+This is a tweaked version of the original Sylius Facebook Plugin to be installed with Sylius 1.8 project. This is not introducing any breaking changes for event features.
 
 [![Latest Version][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
